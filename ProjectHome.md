@@ -1,0 +1,1 @@
+Android application which enables you to determine direction using magneto sensor.
